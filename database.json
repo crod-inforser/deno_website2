@@ -2233,6 +2233,13 @@
     "desc": "graphql-tag ported to deno.",
     "default_version": "master"
   },
+  "graphql-utils":{
+    "type": "github",
+    "owner": "crod-inforser",
+    "repo": "graphql-utils",
+    "desc": "minimal tools of gql to import many .gql typedefs and .ts resolvers",
+    "default_version": "master"
+  },
   "graphql_ts": {
     "type": "github",
     "owner": "simwipado",
